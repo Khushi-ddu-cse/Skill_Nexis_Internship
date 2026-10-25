@@ -1,0 +1,16 @@
+
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+
+# Environment variables
+.env
+.env.*
+
+# Keep the example environment template, if present
+!.env.example
+
+# Debug logs
+npm-debug.log*
